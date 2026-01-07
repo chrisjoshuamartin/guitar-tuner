@@ -28,7 +28,7 @@
         <key>CFBundleURLSchemes</key>
         <array>
           <string>tuneo</string>
-          <string>com.donbraulio.tuneo</string>
+          <string>com.cmartin.hutuner</string>
         </array>
       </dict>
       <dict>

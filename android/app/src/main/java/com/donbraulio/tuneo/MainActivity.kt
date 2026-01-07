@@ -1,4 +1,4 @@
-package com.donbraulio.tuneo
+package com.cmartin.hutuner
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build

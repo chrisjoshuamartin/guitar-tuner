@@ -27,7 +27,7 @@
         <category android:name="android.intent.category.DEFAULT"/>
         <category android:name="android.intent.category.BROWSABLE"/>
         <data android:scheme="tuneo"/>
-        <data android:scheme="com.donbraulio.tuneo"/>
+        <data android:scheme="com.cmartin.hutuner"/>
         <data android:scheme="exp+tuneo"/>
       </intent-filter>
     </activity>
