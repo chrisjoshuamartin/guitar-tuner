@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "tuneo",
-    "slug": "tuneo",
+    "slug": "hu-tuner",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -57,8 +57,9 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "2b3616ed-b94a-4443-95f9-3d96d514c5c2"
+        "projectId": "739d322b-58ec-423c-a0fa-6eb1a877c020"
       }
-    }
+    },
+    "owner": "hitting-up-studios"
   }
 }
